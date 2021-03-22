@@ -1,5 +1,5 @@
 "LEADER KEY 
-let g:mapleader = "\<Space>"
+let mapleader = ' '
 
 "SEM SETAS
 nnoremap <Left> <NOP>
