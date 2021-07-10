@@ -1,2 +1,2 @@
 # nvim
-Configuração pessoal do NVIM (neovim)
+Configuração pessoal do NVIM (neovim) voltada para desenvolvimento.
