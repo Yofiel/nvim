@@ -4,6 +4,10 @@
 
 ### Dependencies
 
+- neoclide/coc.nvim
+  - nodejs
+  - python
+- coc-explorer
 - nvim-telescope/telescope.nvim --- a highly extendable fuzzy finder
   - sharkdp/bat (preview)
   - sharkdp/fd (finder)
