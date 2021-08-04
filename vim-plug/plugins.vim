@@ -1,7 +1,7 @@
 call plug#begin('~/.config/nvim/autoload/plugged')
 
 "LISTA DE PLUGINS
-Plug 'neoclide/coc.nvim'
+Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}  " We recommend updating the parsers on update
 Plug 'neovim/nvim-lspconfig'
 Plug 'nvim-lua/popup.nvim'
