@@ -14,4 +14,10 @@ Plug 'vim-airline/vim-airline-themes'
 Plug 'Vimjas/vim-python-pep8-indent'
 Plug 'kevinhwang91/rnvimr', {'do': 'make sync'}
 
+" for git
+Plug 'mhinz/vim-signify'
+Plug 'tpope/vim-fugitive'
+Plug 'tpope/vim-rhubarb'
+Plug 'junegunn/gv.vim'
+
 call plug#end()
