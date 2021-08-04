@@ -12,5 +12,6 @@ Plug 'joshdick/onedark.vim'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 Plug 'Vimjas/vim-python-pep8-indent'
+Plug 'kevinhwang91/rnvimr', {'do': 'make sync'}
 
 call plug#end()
